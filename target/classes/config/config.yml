@@ -1,0 +1,19 @@
+# Hytale Free Base Plugin - Default Configuration
+plugin:
+  id: free-base-plugin
+  name: Hytale Free Base Plugin
+  version: 1.0.0
+  config_version: 1
+
+welcome:
+  enabled: true
+  message: ""
+  delay_seconds: 0
+  show_tips: true
+
+logging:
+  level: INFO
+
+storage:
+  cache_first: true
+

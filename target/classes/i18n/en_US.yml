@@ -1,0 +1,6 @@
+welcome:
+  title: "Welcome to the Hytale Free Base Plugin"
+  message: "Thank you for trying the open-source base plugin built on Myzon-Labs core."
+  tip: "Configure the plugin in config/config.yml and reload to apply changes."
+plugin:
+  loaded: "Plugin loaded successfully."

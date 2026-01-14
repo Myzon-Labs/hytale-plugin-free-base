@@ -1,0 +1,24 @@
+{
+  "id": "free-base-plugin",
+  "name": "Hytale Free Base Plugin",
+  "version": "1.0.0",
+  "description": "Open-source FREE base plugin demonstrating Myzon-Labs core usage",
+  "authors": ["Myzon Labs"],
+  "website": "https://github.com/Myzon-Labs/hytale-plugin-free-base",
+  "license": "MIT",
+  "main": "io.myzon.hytale.freebase.FreeBasePlugin",
+  "dependencies": {
+    "hytale-plugin-core": "1.0.0"
+  },
+  "metadata": {
+    "engine": {
+      "platform": "hytale",
+      "note": "Engine-agnostic placeholder; works with MockPlatformAdapter"
+    },
+    "features": {
+      "configuration": true,
+      "i18n": true,
+      "storage_async": true
+    }
+  }
+}
